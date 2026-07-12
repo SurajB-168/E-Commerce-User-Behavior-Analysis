@@ -97,7 +97,7 @@ The dashboard includes:
 
 ### Traffic Source Analysis
 ![Traffic Source Pivot Table](Images/Traffic%20Pivot%20Table.png)
-![Traffic Source User Analysis](Images/Traffic%20Source%20%20User%20Analysis.png)
+![Traffic Source User Analysis](Images/Traffic%20Source%20User%20Analysis.png)
 ![Traffic Source Revenue Analysis](Images/Traffic%20Source%20Revenue%20Analysis.png)
 ![Revenue by Traffic Source](Images/Revenue%20by%20traffic%20source.png)
 
